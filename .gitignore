@@ -2,10 +2,11 @@
 
 
 # dependencies
+.env
 /node_modules
 .idea/
 dist
-.env
+backend/.env
 .husky
 /.pnp
 .pnp.*
