@@ -3,7 +3,7 @@
     "target": "ESNext",
     "module": "commonjs",
     "moduleResolution": "node",
-    "rootDir": "C:/Users/olegv/IdeaProjects/project-crm/backend/src",
+    "rootDir": "./src",
     "outDir": "./dist",
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
