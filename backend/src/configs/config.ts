@@ -5,8 +5,6 @@ dotenv.config();
 export const config = {
   port: process.env.PORT || 3001,
 
-  host: process.env.HOST || "localhost",
-
   mongoUrl: process.env.MONGODB_URI || "mongodb://localhost:27017/yourdb",
 
   jwtAccessSecret: process.env.JWT_ACCESS_SECRET,
