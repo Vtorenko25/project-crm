@@ -8,19 +8,16 @@
 
 ## Запуск проекту
 
-npm install
-
-## Переконайтесь що ви в папці backend
+1. Переконайтесь що ви в папці backend
 Для цього викнайте команду
 
 cd backend
 
-Далі запускаємо проект
+2. Запуск проекту
+
+npm install
 
 npm run start:dev
 
-Запускаємо докер docker-compose up --build
+docker-compose up --build
 
-## Перевірити код на помилки
-
-npm run lint
