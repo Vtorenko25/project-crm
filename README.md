@@ -21,3 +21,11 @@ npm run start:dev
 
 docker-compose up --build
 
+cd frontend
+
+npm run dev
+
+
+npm run start одна команда
+
+
